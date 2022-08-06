@@ -14,7 +14,7 @@
                 <div class="col-md-6">
                     <div class="bikebd-logo pb-5">
                         <a href="#">
-                            <img src="https://www.bikebd.com/wp-content/uploads/2021/09/bikebd.com_logo.png" alt="">
+                            <img src="https://www.bikebd.com/assets/image/bikebd-logo.webp" alt="">
                         </a>
                     </div>
                     <p class="mb-5"> বাইক মানেই বাইক বিডি, আর আমরা টীম বাইক বিডি সব সময় চাই সবাই নিরাপদে বাইক রাইড করুক। আপনার পছন্দের বাইক ব্যাংক লোনে কিনতে আমরা আপনাকে সাহায্য করতে পারি। <br> <br>
@@ -205,6 +205,8 @@ export default {
           { value: 'Cash', text: 'Cash' },
           { value: 'Account-Payee', text: 'Account Payee' },
           { value: 'Partial-account', text: 'Partial Account' },
+          { value: 'Foreign-Currency-Account', text: 'Foreign-Currency-Account' },
+          { value: 'Freelancer-Bank-Account', text: 'Freelancer Bank Account' }
           
           
         ], 
